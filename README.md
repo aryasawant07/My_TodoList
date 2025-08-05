@@ -28,11 +28,11 @@ A simple and elegant Todo list web application built using **Flask**, **SQLite**
 
 
 ##commands
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-pip freeze > requirements.txt
-pip install flask_sqlalchemy
-pip install flask
-python .\app.py  
+- python -m venv venv
+- venv\Scripts\activate
+- pip install -r requirements.txt
+- pip freeze > requirements.txt
+- pip install flask_sqlalchemy
+- pip install flask
+- python .\app.py  
 
