@@ -1,0 +1,77 @@
+
+
+
+/* Soft background */
+body {
+    background-color: rgb(238, 197, 197);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Form Card */
+form {
+    background-color: rgb(255, 240, 240);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(229, 165, 165, 0.3);
+}
+
+/* Headings */
+h2 {
+    color: rgb(117, 46, 46);
+    font-weight: 600;
+}
+
+/* Buttons */
+.btn-dark {
+    background-color: rgb(229, 165, 165);
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-dark:hover {
+    background-color: rgb(200, 130, 130);
+}
+
+/* Table Design */
+.table {
+    background-color: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(229, 165, 165, 0.2);
+}
+
+.table th {
+    background-color: rgb(225, 165, 165);
+    color: #333;
+}
+
+.table td {
+    background-color: rgb(255, 240, 240);
+}
+
+/* Alert box */
+.alert-dark {
+    background-color: rgb(250, 220, 220);
+    color: #333;
+    border: 1px solid rgb(229, 165, 165);
+}
+
+/* Navbar */
+.navbar-light {
+    background-color: rgb(255, 230, 230) !important;
+}
+
+.navbar-brand, .nav-link, .btn-outline-dark {
+    color: rgb(120, 60, 60) !important;
+    font-weight: 600;
+}
+
+.btn-outline-dark:hover {
+    background-color: rgb(229, 165, 165);
+    color: white !important;
+}
+
+
+
+
